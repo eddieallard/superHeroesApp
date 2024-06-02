@@ -26,7 +26,7 @@ Welcome to the **Build a Hero!** application. This is a simple React application
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/build-a-hero.git
+git clone [https://github.com/eddieallard/superHeroesApp.git]
 cd build-a-hero
 npm install
 ```
